@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Gastromatc**
 
-- 🌱 I’m currently learning **react.js, node.js,typescript and graphQL**
+- 🌱 I’m currently learning **react.js, node.js, typescript and graphQL**
 
 - 👨‍💻 All of my projects are available at [https://kkhanhluu.github.io/](https://kkhanhluu.github.io/)
 
