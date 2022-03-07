@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Khanh Luu</h1>
 <h3 align="left">I'm a software engineer based in Darmstadt, Germany enjoying in building high-quality websites and applications.</h3>
 
-- 🔭 I’m currently working at **Gastromatc**
+- 🔭 I’m currently working at **Gastromatic**
 
 - 🌱 I’m currently learning **react.js, node.js, typescript and graphQL**
 
 - 👨‍💻 All of my projects are available at [https://kkhanhluu.github.io/](https://kkhanhluu.github.io/)
 
-- 💬 Ask me about **react, angular and nodejs**
+- 💬 Ask me about **react and nodejs**
 
 - 📫 How to reach me **luukhanh96@gmail.com**
 
