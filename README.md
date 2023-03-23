@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Khanh Luu</h1>
 <h3 align="left">I'm a software engineer based in Darmstadt, Germany enjoying in building high-quality websites and applications.</h3>
 
-- 🔭 I’m currently working at **Gastromatic**
+- 🔭 I’m currently working at **Strapi**
 
 - 🌱 I’m currently learning **react.js, node.js, typescript and graphQL**
 
